@@ -1,0 +1,135 @@
+body{
+    color:white;
+    font-family: Montserrat,sans-serif;
+    background-image: url(https://d33wubrfki0l68.cloudfront.net/b48d3f70dffd76bf3152ad04e2cbb1261ef589c9/header.1af6756a.png);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #090909;
+    background-attachment: fixed;
+    color: #fff;
+    min-height: 700px;
+    font-size: 25px;
+
+}
+
+.cli{
+    display : inline-block;
+    margin-bottom: 9%;
+
+    
+}
+
+.cli img{
+    border-radius: 20px;
+    margin : 20px;
+    max-width: 50vw;
+    box-shadow: 20px 20px 10px rgb(4, 0, 7);
+    
+}
+
+.arbo{
+    border-radius: 20px;
+    box-shadow: 20px 20px 10px rgb(4, 0, 7);
+    
+}
+
+.arboP{
+    margin-top: 5%;
+    margin-bottom: 7%;
+    margin-left:48%;
+}
+
+.logo-wrapper img, .logo-wrapper svg {
+    max-width: 150px;
+    margin-left: 46%;
+    margin-top: 15%;
+ 
+}
+
+img {
+    vertical-align: middle;
+}
+
+.presentation {
+    margin-top: 5%;
+    margin-bottom: 9%;
+    display : flex;
+    justify-content: space-around;
+
+
+}
+
+.case{
+    padding : 5px;
+    margin-left: 10vw;
+    
+}
+
+.backgroundImg{
+    position: fixed;
+}
+
+.contain{
+    position: relative;
+}
+
+.header{
+    position :relative;
+    color :white;
+}
+
+.info {
+    margin-top: 8%;
+    margin-bottom: 15%;
+    margin-left: 48%;
+
+
+
+}
+
+.avantage{
+
+    list-style-type: none;
+    margin : 5%;
+}
+
+li{
+    margin-bottom:5%;
+}
+    
+
+h2{
+    margin : 5%;
+}
+
+.test{
+    margin-bottom: 5%;
+
+}
+.header h1{
+    font-size: 45px;
+    text-align: center;
+
+}
+
+.header h2{
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 25%;
+}
+
+.language-bash{
+    font-size: 25px;
+    margin-left :32%;
+    margin-bottom: 12%;
+}
+
+.conclusion{
+    text-align:center;
+    font-size: 25px;
+    margin-top: 15%;
+    margin-bottom: 25%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
