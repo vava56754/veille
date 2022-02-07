@@ -128,8 +128,26 @@ h2{
 .conclusion{
     text-align:center;
     font-size: 25px;
-    margin-top: 15%;
+    margin-top: 23%;
     margin-bottom: 25%;
     margin-left: 5%;
     margin-right: 5%;
+}
+
+.ts{
+    border-radius: 20px;
+    margin : 20px;
+    max-width: 50vw;
+    box-shadow: 20px 20px 10px rgb(4, 0, 7);
+}
+
+.js{
+    border-radius: 20px;
+    margin : 20px;
+    max-width: 50vw;
+    box-shadow: 20px 20px 10px rgb(4, 0, 7);
+}
+
+.tjjs{
+    margin-bottom: 20%;
 }
